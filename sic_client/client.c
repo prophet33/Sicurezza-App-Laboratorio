@@ -13,7 +13,7 @@ void error (const char* msg) {
 	perror(msg);
 	exit(1);
 }
-
+//com di prova
 
 int main(int argc, char * argv[])
 {
