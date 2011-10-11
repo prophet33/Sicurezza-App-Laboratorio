@@ -8,6 +8,8 @@
 #include <string.h>
 #define bufLen 1024
 
+
+ //Prova
 //Stampa errore ed esce
 void error (const char* msg) {
 	perror(msg);
